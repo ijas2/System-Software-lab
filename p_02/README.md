@@ -22,6 +22,8 @@ Terms
 3. Waiting Time(W.T): Time Difference between turn around time and burst time.
     - Waiting Time = Turn Around Time – Burst Time
 
+### [Solution](https://raw.githubusercontent.com/abhijithvijayan/System-Software-lab/master/p_02/pg_02.c)    
+
 Output
 
 ![output_img](../out_img/p_02_out.jpg)
