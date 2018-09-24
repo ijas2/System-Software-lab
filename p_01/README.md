@@ -37,9 +37,10 @@ Implementation:
 7-  Similarly, find average turnaround time = 
                  total_turn_around_time / no_of_processes.
 
-[Reference](http://web.cse.ohio-state.edu/~agrawal/660/Slides/jan18.pdf)
+### [Solution](https://raw.githubusercontent.com/abhijithvijayan/System-Software-lab/master/p_01/pg_01.c)
 
 Output:
 
 ![output_image](../out_img/p_01_out.jpg)
 
+[Reference](http://web.cse.ohio-state.edu/~agrawal/660/Slides/jan18.pdf)
