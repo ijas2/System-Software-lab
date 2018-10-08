@@ -10,6 +10,8 @@ Includes
 
 - **Cycle 1**
 
+    ### CPU Scheduling Algorithms
+
     - [FCFS Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_01)
 
     - [SJF Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_02)
@@ -20,4 +22,22 @@ Includes
     
 - **Cycle 2**
 
-    - To be added..
+    - [Single-Level Directory-File Organisation Technique](#)
+    - [Two-Level Directory-File Organisation Technique](#)
+    - [Banker's Algorithm](#)
+    
+- **Cycle 3**
+    
+    ### Disk Scheduling Algorithms
+    
+    - [FCFS Algorithm](#)
+    - [SCAN Algorithm](#)
+    - [CSCAN Algorithm](#)
+    
+    ### Page Replacement Algorithms
+    
+    - [FIFO Algorithm](#)
+    - [LRU Algorithm](#)
+    - [LFU Algorithm](#)
+    
+    
