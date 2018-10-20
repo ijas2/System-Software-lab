@@ -13,11 +13,8 @@ Includes
     ### CPU Scheduling Algorithms
 
     - [FCFS Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_01)
-
     - [SJF Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_02)
-
     - [Priority Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_03)
-
     - [Round Robin scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_04)
     
 - **Cycle 2**
