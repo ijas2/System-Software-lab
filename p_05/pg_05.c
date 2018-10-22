@@ -8,7 +8,7 @@
 #include<string.h>
 #include<stdlib.h>
 
-struct S_level_dir {
+struct directory {
     char dirName[10];
     char fileName[10][10];          /* fileName[10][i] -> i Array of 10 char */
     int fileCount;
@@ -22,7 +22,7 @@ void main() {
     scanf("%s",dir.dirName);
 
     while(1) {
-        printf("\nOperations\n\n1.Create File\n2.Delete File\n3.Seach in Directory\n4.View Files\n5.Exit\n");
+        printf("\nOperations\n\n1.Create File\n2.Delete File\n3.Search in Directory\n4.View Files\n5.Exit\n");
         printf("Enter your choice:");
         scanf("%d",&ch);
         switch(ch) {
@@ -63,7 +63,7 @@ void main() {
                         printf("Empty Directory!!");
                     }
                     else {
-                        printf("Files\n");
+                        printf("Files:\n");
                         for(i=0;i<dir.fileCount;i++) {
                             printf("%s\n",dir.fileName[i]);
                         }

@@ -13,4 +13,5 @@ Advantage of single level directory system is that it is easy to find a file in 
 
 Output
 
-![output_img](../out_img/p_05_out.jpg)
+![output_img](../out_img/p_05_out-1.jpg)
+![output_img](../out_img/p_05_out-2.jpg)

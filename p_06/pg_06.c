@@ -82,16 +82,17 @@ void deleteFile(struct directory dir[]) {
             printf("\nNo Files Found!!");
         }
         else {
-            printf("Choose file to be deleted:");
+            printf("\nChoose file to be deleted:");
             scanf("%s",fName);
             for(j=0;j<dir[i].fileCount;j++) {
                 if(strcmp(fName, dir[i].fileName[j])==0) {                  /* i is static, represents directory */
                     printf("\nFile Deleted!!\n");
                     strcpy(dir[i].fileName[j], dir[i].fileName[dir[i].fileCount-1]);
+                    dir[i].fileCount--;                                     /* reduce file count */
                     break;
                 }
             }
-            if(j==dir[i].fileCount) {
+            if(j==dir[i].fileCount-1) {                                   /* count reduced by 1 */
                 printf("\n404 | File Not Found\n");
             }
         }    
@@ -137,12 +138,12 @@ void search(struct directory dir[]) {
                 scanf("%s", fName);
                 for(j=0;j<dir[i].fileCount;j++) {
                     if(strcmp(fName, dir[i].fileName[j])==0) {                  /* i is static, represents directory */
-                        printf("\nFile Found!!");
+                        printf("\nFile Found!!\n\n");
                         break;
                     }
                 }
                 if(j==dir[i].fileCount) {
-                    printf("\n404 | File Not Found\n");
+                    printf("\n404 | File Not Found\n\n");
                     break;
                 }
                 break;                                                          /* End Searching */
@@ -173,6 +174,6 @@ void display(struct directory dir[]) {
             }
             printf("%d File(s) Found!!\n",dir[i].fileCount);
         }
-        printf("\n");
+        printf("\n\n");
     }
 }
