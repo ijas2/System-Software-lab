@@ -6,6 +6,7 @@
 
 #include<stdio.h>
 #include<string.h>
+#include<stdlib.h>
 
 struct S_level_dir {
     char dirName[10];
@@ -35,7 +36,7 @@ void main() {
                     for(i=0;i<dir.fileCount;i++) {
                         if(strcmp(tmp, dir.fileName[i])==0) {                            /* The strcmp() function takes two strings and return an integer. 0->identical */
                             printf("The File %s is deleted!",tmp);                       /* Copy the last element to the place of deleted one */
-                            strcpy(dir.fileName[i], dir.fileName[dir.fileCount-1]);          /* The strcpy() function copies the string to the another character array. strcpy(destination, source) */
+                            strcpy(dir.fileName[i], dir.fileName[dir.fileCount-1]);      /* The strcpy() function copies the string to the another character array. strcpy(destination, source) */
                             dir.fileCount--;
                             break;
                         }
