@@ -20,7 +20,7 @@ Includes
 - **Cycle 2**
 
     - [Single-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_05)
-    - [Two-Level Directory-File Organisation Technique](#)
+    - [Two-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_06)
     - [Banker's Algorithm](#)
     
 - **Cycle 3**
