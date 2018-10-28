@@ -49,11 +49,11 @@ void read(int alloc[][10], int max[][10], int avail[10], int need[][10], int n, 
             need[i][j] = max[i][j] - alloc[i][j];               /* need = max - allocated */
         }
     }
-    printf("\nProcess\tCurrently Allocated Resources\n");
+    printf("\nProcess\tCurrently-Allocated-Resources\n");
     display(alloc, n, m);
-    printf("\nProcess\tMaximum Resources\n");
+    printf("\nProcess\tMaximum-Resources\n");
     display(max, n, m);
-    printf("\nProcess\tPossibly Needed Resources\n");
+    printf("\nProcess\tPossibly-Needed-Resources\n");
     display(need, n, m);
     
     safety(alloc, avail, need, n, m);

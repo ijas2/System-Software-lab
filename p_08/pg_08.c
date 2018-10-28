@@ -5,6 +5,7 @@
 */
 
 #include<stdio.h>
+#include<stdlib.h>
 
 int main() {
     int diskQueue[20], n, i, seekTime=0, diff;

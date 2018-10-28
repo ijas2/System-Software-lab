@@ -24,6 +24,16 @@ There are many Disk Scheduling Algorithms but before discussing them let’s hav
 ### FCFS: 
 FCFS is the simplest of all the Disk Scheduling Algorithms. In FCFS, the requests are addressed in the order they arrive in the disk queue.
 
+Advantages:
+
+- Every request gets a fair chance
+- No indefinite postponement
+
+Disadvantages:
+
+- Does not try to optimize seek time
+- May not provide the best possible service
+
 ### [Solution](https://raw.githubusercontent.com/abhijithvijayan/System-Software-lab/master/p_08/pg_08.c)    
 
 Output

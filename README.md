@@ -1,5 +1,7 @@
 # SYSTEM-SOFTWARE-LAB
 
+Live Site @ https://kutt.it/lab
+
 B.Tech CSE S5 System Software Lab
 
 Batch: CSE 2k16-20, College of Engg. Adoor
@@ -28,7 +30,7 @@ Includes
     ### Disk Scheduling Algorithms
     
     - [FCFS Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_08)
-    - [SCAN Algorithm](#)
+    - [SCAN Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_09)
     - [CSCAN Algorithm](#)
     
     ### Page Replacement Algorithms

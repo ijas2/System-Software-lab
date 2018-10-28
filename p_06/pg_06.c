@@ -172,7 +172,7 @@ void display(struct directory dir[]) {
                 }
                 printf("%s\n",dir[i].fileName[j]);
             }
-            printf("%d File(s) Found!!\n",dir[i].fileCount);
+            printf("%d File(s) Found!!\n\n",dir[i].fileCount);
         }
         printf("\n\n");
     }
