@@ -30,7 +30,7 @@ Includes
     ### Disk Scheduling Algorithms
     
     - [FCFS Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_08)
-    - [SCAN Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_09)
+    - [SCAN Algorithm](#)
     - [CSCAN Algorithm](#)
     
     ### Page Replacement Algorithms

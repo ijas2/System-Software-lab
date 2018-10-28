@@ -11,6 +11,6 @@ This effectively solves the name collision problem and isolates users from one a
 
 Output
 
-![output_img](../out_img/p_07_out-1.png)
-![output_img](../out_img/p_07_out-2.png)
-![output_img](../out_img/p_07_out-3.png)
+![output_img](../out_img/p_06_out-1.png)
+![output_img](../out_img/p_06_out-2.png)
+![output_img](../out_img/p_06_out-3.png)
