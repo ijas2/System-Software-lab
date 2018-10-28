@@ -27,7 +27,7 @@ Includes
     
     ### Disk Scheduling Algorithms
     
-    - [FCFS Algorithm](#)
+    - [FCFS Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_08)
     - [SCAN Algorithm](#)
     - [CSCAN Algorithm](#)
     
