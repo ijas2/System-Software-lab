@@ -1,5 +1,8 @@
 ## Program for Shortest Job First (or SJF) scheduling
 
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/abhijithvijayan/System-Software-lab/blob/master/p_02/pg_02.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/abhijithvijayan/System-Software-lab/raw/master/p_02/pg_02.c)
+
 Shortest job first (SJF) or shortest job next, is a scheduling policy that selects the waiting process with the smallest execution time to execute next. SJN is a non-preemptive algorithm.
 
 - Shortest Job first has the advantage of having minimum average waiting time among all scheduling algorithms.
@@ -21,9 +24,7 @@ Terms
     - Turn Around Time = Completion Time – Arrival Time
 
 3. Waiting Time(W.T): Time Difference between turn around time and burst time.
-    - Waiting Time = Turn Around Time – Burst Time
-
-### [Solution](https://raw.githubusercontent.com/abhijithvijayan/System-Software-lab/master/p_02/pg_02.c)    
+    - Waiting Time = Turn Around Time – Burst Time  
 
 Output
 

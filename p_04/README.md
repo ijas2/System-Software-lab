@@ -1,5 +1,8 @@
 ## Program for Round Robin scheduling
 
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/abhijithvijayan/System-Software-lab/blob/master/p_04/pg_04.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/abhijithvijayan/System-Software-lab/raw/master/p_04/pg_04.c)
+
 Round Robin is a CPU scheduling algorithm where each process is assigned a fixed time slot in a cyclic way.
 
 - It is simple, easy to implement, and starvation-free as all processes get fair share of CPU.
@@ -43,8 +46,6 @@ The tricky part is to compute waiting times. Once waiting times are computed, tu
        (ii) bt_rem[i] = 0; // This process is over
 
 Once we have waiting times, we can compute turn around time tat[i] of a process as sum of waiting and burst times, i.e., wt[i] + bt[i]
-
-### [Solution 1](https://raw.githubusercontent.com/abhijithvijayan/System-Software-lab/master/p_04/pg_04.c)
 
 Output:
 

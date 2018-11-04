@@ -1,5 +1,8 @@
 ## Program for FCFS Disk Scheduling
 
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/abhijithvijayan/System-Software-lab/blob/master/p_08/pg_08.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/abhijithvijayan/System-Software-lab/raw/master/p_08/pg_08.c)
+
 Disk scheduling is is done by operating systems to schedule I/O requests arriving for disk. Disk scheduling is also known as I/O scheduling.
 
 Disk scheduling is important because:
@@ -33,8 +36,6 @@ Disadvantages:
 
 - Does not try to optimize seek time
 - May not provide the best possible service
-
-### [Solution](https://raw.githubusercontent.com/abhijithvijayan/System-Software-lab/master/p_08/pg_08.c)    
 
 Output
 

@@ -1,5 +1,8 @@
 ## Program for Banker’s Algorithm
 
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/abhijithvijayan/System-Software-lab/blob/master/p_07/pg_07.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/abhijithvijayan/System-Software-lab/raw/master/p_07/pg_07.c)
+
 The Banker algorithm, sometimes referred to as the detection algorithm, is a resource allocation and deadlock avoidance algorithm that tests for safety by simulating the allocation of predetermined maximum possible amounts of all resources, and then makes an "s-state" check to test for possible deadlock conditions for all other pending activities, before deciding whether allocation should be allowed to continue. 
 
 Resources
@@ -59,9 +62,7 @@ The algorithm for finding out whether or not a system is in a safe state can be 
   4. If Finish[i]=true for all i,
      - then the system is in safe state. 
 
-Safe sequence is the sequence in which the processes can be safely executed.
-
-### [Solution](https://raw.githubusercontent.com/abhijithvijayan/System-Software-lab/master/p_07/pg_07.c)    
+Safe sequence is the sequence in which the processes can be safely executed. 
 
 Output
 

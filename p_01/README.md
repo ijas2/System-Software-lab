@@ -1,5 +1,8 @@
 ## Program for FCFS Scheduling
 
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/abhijithvijayan/System-Software-lab/blob/master/p_01/pg_01.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/abhijithvijayan/System-Software-lab/raw/master/p_01/pg_01.c)
+
 Given n processes with their burst times, the task is to find average waiting time and average turn around time using FCFS scheduling algorithm.
 
 First in, first out (FIFO), also known as first come, first served (FCFS), is the simplest scheduling algorithm. FIFO simply queues processes in the order that they arrive in the ready queue.
@@ -36,8 +39,6 @@ Implementation:
                  
 7-  Similarly, find average turnaround time = 
                  total_turn_around_time / no_of_processes.
-
-### [Solution](https://raw.githubusercontent.com/abhijithvijayan/System-Software-lab/master/p_01/pg_01.c)
 
 Output:
 
