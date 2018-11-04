@@ -1,6 +1,7 @@
 # SYSTEM-SOFTWARE-LAB
 
-Live Site @ https://kutt.it/lab
+[![download](https://img.shields.io/badge/Download-zip-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/abhijithvijayan/System-Software-lab/zipball/master)
+[![website](https://img.shields.io/badge/Live-website-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://abhijithvijayan.github.io/System-Software-lab/)
 
 B.Tech CSE S5 System Software Lab
 
