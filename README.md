@@ -11,26 +11,26 @@ University: APJ Abdul Kalam Technological University
 
 Includes
 
-- **Cycle 1**
+- **[Cycle 1](https://github.com/abhijithvijayan/System-Software-lab/blob/master/cycle-1/README.md)**
 
     ### CPU Scheduling Algorithms
 
-    - [FCFS Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_01)
-    - [SJF Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_02)
-    - [Priority Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_03)
-    - [Round Robin scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_04)
+    - [FCFS Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_01/README.md)
+    - [SJF Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_02/README.md)
+    - [Priority Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_03/README.md)
+    - [Round Robin scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_04/README.md)
     
-- **Cycle 2**
+- **[Cycle 2](https://github.com/abhijithvijayan/System-Software-lab/blob/master/cycle-2/README.md)**
 
-    - [Single-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_05)
-    - [Two-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_06)
-    - [Banker's Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_07)
+    - [Single-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_05/README.md)
+    - [Two-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_06/README.md)
+    - [Banker's Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_07/README.md)
     
-- **Cycle 3**
+- **[Cycle 3](https://github.com/abhijithvijayan/System-Software-lab/blob/master/cycle-3/README.md)**
     
     ### Disk Scheduling Algorithms
     
-    - [FCFS Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-3/p_08)
+    - [FCFS Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-3/p_08/README.md)
     - [SCAN Algorithm](#)
     - [CSCAN Algorithm](#)
     

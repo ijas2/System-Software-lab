@@ -1,6 +1,6 @@
 ### Disk Scheduling Algorithms
 
-- [FCFS Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-3/p_08)
+- [FCFS Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-3/p_08/README.md)
 - [SCAN Algorithm](#)
 - [CSCAN Algorithm](#)
 
