@@ -15,22 +15,22 @@ Includes
 
     ### CPU Scheduling Algorithms
 
-    - [FCFS Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_01)
-    - [SJF Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_02)
-    - [Priority Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_03)
-    - [Round Robin scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_04)
+    - [FCFS Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_01)
+    - [SJF Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_02)
+    - [Priority Scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_03)
+    - [Round Robin scheduling](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-1/p_04)
     
 - **Cycle 2**
 
-    - [Single-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_05)
-    - [Two-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_06)
-    - [Banker's Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_07)
+    - [Single-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_05)
+    - [Two-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_06)
+    - [Banker's Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_07)
     
 - **Cycle 3**
     
     ### Disk Scheduling Algorithms
     
-    - [FCFS Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/p_08)
+    - [FCFS Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-3/p_08)
     - [SCAN Algorithm](#)
     - [CSCAN Algorithm](#)
     

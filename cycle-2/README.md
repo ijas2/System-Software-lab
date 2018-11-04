@@ -1,0 +1,3 @@
+- [Single-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_05)
+- [Two-Level Directory-File Organisation Technique](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_06)
+- [Banker's Algorithm](https://github.com/abhijithvijayan/System-Software-lab/tree/master/cycle-2/p_07)

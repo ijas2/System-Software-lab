@@ -1,7 +1,7 @@
 ## Program for Priority Scheduling
 
-[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/abhijithvijayan/System-Software-lab/blob/master/p_03/pg_03.c)
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/abhijithvijayan/System-Software-lab/raw/master/p_03/pg_03.c)
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/abhijithvijayan/System-Software-lab/blob/master/cycle-1/p_03/pg_03.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/abhijithvijayan/System-Software-lab/raw/master/cycle-1/p_03/pg_03.c)
 
 Priority scheduling is a non-preemptive algorithm and one of the most common scheduling algorithms in batch systems. 
 - Each process is assigned a priority. Process with the highest priority is to be executed first and so on.
@@ -20,4 +20,4 @@ Implementation :
 
 Output
 
-![output_img](../out_img/p_03_out.jpg)
+![output_img](/out_img/p_03_out.jpg)
