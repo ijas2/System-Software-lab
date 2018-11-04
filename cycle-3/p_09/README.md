@@ -18,3 +18,30 @@ Advantages:
 Disadvantages:
 
 - Long waiting time for requests for locations just visited by disk arm
+
+### Example
+
+- Example list of pending disk requests (listed by track number): 100, 50, 10, 20, 75.
+    
+- The starting track number for the examples will be 35.
+    
+- The list will need to be sorted in ascending order: 10, 20, 50, 75, 100.
+
+- For the sake of this example let us assume that the SCAN algorithm is currently going from a lower track number to a higher track number
+    - Seek 1: 50 − 35 = 15
+    - Seek 2: 75 − 50 = 25
+    - Seek 3: 100 − 75 = 25
+
+- At this point both have reached the highest (end) track request. SCAN will just reverse direction and service the next closest disk request (in this example, 20).
+    - Seek 4: 20 − 100 = 80
+    - Seek 5): 10 − 20 = 10
+    - Total: 155
+    - Average: 155 ÷ 5 = 31
+
+Output
+
+![output_img](/out_img/p_09_out.png)
+
+Reference
+
+- [Wikipedia](https://en.wikipedia.org/wiki/Elevator_algorithm)
