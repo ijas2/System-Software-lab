@@ -1,7 +1,7 @@
 /* 
     Author     : abhijithvijayan
     Created on : 05 Nov 18, 08:24
-    Title      : CSCAN Disk Scheduling
+    Title      : C-SCAN Disk Scheduling
 */
 
 #include<stdio.h>
