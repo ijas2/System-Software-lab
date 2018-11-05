@@ -7,11 +7,11 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-void scan(int Ar[20], int n, int start, int max);
+void scan(int Ar[20], int n, int start);
 void sort(int Ar[20], int n);
 
 int main() {
-    int diskQueue[20], n, start, i, max;
+    int diskQueue[20], n, start, i;
     printf("Enter the size of Queue: ");
     scanf("%d", &n);
     printf("Enter the Queue: ");
@@ -23,13 +23,12 @@ int main() {
     diskQueue[0] = start;                                    /* injecting to the first position */
     ++n;
     sort(diskQueue, n);                                     /* total of n+1 elements */    
-    max = diskQueue[n];                                     /* last element as max */
-    scan(diskQueue, n, start, max);
+    scan(diskQueue, n, start);
 
     return 0;
 }
 
-void scan(int Ar[20], int n, int start, int max) {
+void scan(int Ar[20], int n, int start) {
     int i, pos, diff, seekTime=0, current;
     // position of the disk to start seeking 
     for(i=0;i<n;i++) {                                      
@@ -41,15 +40,15 @@ void scan(int Ar[20], int n, int start, int max) {
     // start seeking to the right
     printf("\nMovement of Cylinders\n");
     for(i=pos;i<n-1;i++) {
-        diff= abs(Ar[i+1] - Ar[i]);
-        seekTime+= diff;
+        diff = abs(Ar[i+1] - Ar[i]);
+        seekTime += diff;
         printf("Move from %d to %d with seek time %d\n", Ar[i], Ar[i+1], diff);
     }
     current=i;                                              /* last element position */
     // start seeking to the left
     for(i=pos-1;i>=0;i--) {
-        diff= abs(Ar[current] - Ar[i]);
-        seekTime+= diff;
+        diff = abs(Ar[current] - Ar[i]);
+        seekTime += diff;
         printf("Move from %d to %d with seek time %d\n", Ar[current], Ar[i], diff);
         current=i;
     }
