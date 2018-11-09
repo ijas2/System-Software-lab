@@ -31,7 +31,7 @@ Note: Even though six seeks were performed using the C-SCAN algorithm, only five
 
 Output
 
-![output_img](/out_img/p_10_out.png)
+![output_img](/out_img/p_10_out.jpg)
 
 Reference
 
