@@ -90,7 +90,7 @@ int safety(int alloc[][10], int avail[10], int need[][10], int n, int m) {
                     }
                     count++;                       /* done process's count */
                     isDone[i]=1;
-                    sequence[count-1]=i;           /* safe state sequence */        
+                    sequence[count-1]=i+1;           /* safe state sequence */        
                 }
             }   
         }
