@@ -1,11 +1,11 @@
 ## Program for C-SCAN Disk Scheduling
 
-[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/abhijithvijayan/System-Software-lab/blob/master/cycle-3/p_10/pg_10.c)
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/abhijithvijayan/System-Software-lab/raw/master/cycle-3/p_10/pg_10.c)
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-3/p_10/pg_10.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/cycle-3/p_10/pg_10.c)
 
 Definition of C-SCAN: C-SCAN moves the head from one end of the Disk to the other end, servicing requests along the way. The head on reaching the other end, however immediately returns to the beginning of the Disk without servicing any requests on the return.
 
-    - The huge jump from one end to the other is not considered as a head movement as cylinders are treated as a circular list.
+- The huge jump from one end to the other is not considered as a head movement as cylinders are treated as a circular list.
 
 ### Example
 
