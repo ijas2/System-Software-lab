@@ -36,3 +36,4 @@ Output
 Reference
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Elevator_algorithm)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/operating-system-page-replacement-algorithm/)
