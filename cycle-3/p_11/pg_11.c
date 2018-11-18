@@ -29,10 +29,11 @@
     }
 
     void fifo(int str[], int frames[], int pCount, int fCount) {
-        printf("\n  Ref.String\tFrames\n");
+        printf("\nRef.String   |\tFrames\n");
+        printf("-------------------------------\n");
         int i, j, k, flag, faultCount = 0, queue = 0;
         for (i = 0; i < pCount; i++) {
-            printf("\t%d\t", str[i]);
+            printf("  %d\t|\t", str[i]);
             flag = 0;
             for (j = 0; j < fCount; j++) {
                 if (frames[j] == str[i]) {   // compare with string in str[]
