@@ -82,7 +82,7 @@ University: APJ Abdul Kalam Technological University
 	└──── LFU Algorithm
 
 5) Category 5
-	└──── Implement Producer Consumer Problem
+	└──── Producer Consumer Problem
 	└──── Dining Philosophers Problem
 	└──── Pass 1 of a Two Pass Assembler
 	└──── Pass 2 of a Two Pass Assembler
