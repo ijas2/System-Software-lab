@@ -63,28 +63,59 @@ University: APJ Abdul Kalam Technological University
 ## What each directory in this repo contains
 
 ```
-1) CPU Scheduling
-	└──── FCFS Scheduling
-	└──── SJF Scheduling
-	└──── Priority Scheduling
-	└──── Round Robin scheduling
+1) CPU Scheduling      
+	└──── FCFS
+         	└──── 1.fcfs.c
+         	└──── README.md                     
+	└──── SJF
+         	└──── 2.sjf.c
+         	└──── README.md  
+	└──── Priority
+         	└──── 3.priority.c
+         	└──── README.md  
+	└──── RoundRobin
+         	└──── 4.roundrobin.c
+         	└──── README.md  
+        └──── README.md   
     
 2) Memory Management
-	└──── Single-Level Directory-File Organisation Technique
-	└──── Two-Level Directory-File Organisation Technique
+	└──── SingleLevelDir
+         	└──── 5.singleLevelDir.c
+         	└──── README.md  
+	└──── TwoLevelDir
+         	└──── 6.twoLevelDir.c
+         	└──── README.md  
+        └──── README.md     
 
 3) Deadlocks
-	└──── Banker's Algorithm
+	└──── BankersAlgorithm
+         	└──── 7.bankers.c
+         	└──── README.md  
+        └──── README.md   
 
 4) Disk Management
-	└──── FCFS Disk Scheduling
-	└──── SCAN Disk Scheduling
-	└──── C-SCAN Disk Scheduling
+	└──── FCFS
+         	└──── 8.fcfsDisk
+         	└──── README.md  
+	└──── SCAN
+         	└──── 9.scan.c
+         	└──── README.md  
+	└──── CSCAN
+         	└──── 10.csan.c
+         	└──── README.md  
+        └──── README.md   
 
 5) Virtual Memory
-	└──── FIFO Page Replacement Algorithm
-	└──── LRU Page Replacement Algorithm
-	└──── LFU Page Replacement Algorithm
+	└──── FIFO
+         	└──── 11.fifoPage.c
+         	└──── README.md  
+	└──── LRU
+         	└──── 12.lru.c
+         	└──── README.md  
+	└──── LFU
+         	└──── 13.lfu.c
+         	└──── README.md  
+        └──── README.md   
 
 6) Process Synchronization
 	└──── Producer Consumer Problem

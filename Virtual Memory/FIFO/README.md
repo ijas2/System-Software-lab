@@ -1,8 +1,8 @@
 ## Program for FIFO page-replacement algorithm
 
-[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-3/p_11/pg_11.c)
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/raw/master/cycle-3/p_11/pg_11.c)
-[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-3/p_11/README.md#output)
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/Virtual%20Memory/FIFO/11.fifoPage.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/raw/master/Virtual%20Memory/FIFO/11.fifoPage.c)
+[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/Virtual%20Memory/FIFO/README.md#output)
 
 The first-in, first-out (FIFO) page replacement algorithm is a low-overhead algorithm that requires little book keeping on the part of the operating system.
 

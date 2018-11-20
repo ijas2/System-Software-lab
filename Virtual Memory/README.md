@@ -1,7 +1,7 @@
 ### Page Replacement Algorithms
 
-- [FIFO Algorithm](https://github.com/KTU-CSE/System-Software-lab/tree/master/cycle-3/p_11/README.md)
-- [LRU Algorithm](https://github.com/KTU-CSE/System-Software-lab/tree/master/cycle-3/p_12/README.md)
+- [FIFO Algorithm](https://github.com/KTU-CSE/System-Software-lab/tree/master/Virtual%20Memory/FIFO/README.md)
+- [LRU Algorithm](https://github.com/KTU-CSE/System-Software-lab/tree/master/Virtual%20Memory/LRU/README.md)
 - [LFU Algorithm](#)
 
 <hr />
