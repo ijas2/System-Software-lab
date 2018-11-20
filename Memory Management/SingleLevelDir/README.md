@@ -1,8 +1,8 @@
 ## Program for Single Level Directory Organisation Technique
 
-[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-2/p_05/pg_05.c)
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/cycle-2/p_05/pg_05.c)
-[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-2/p_05/README.md#output)
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/Memory%20Management/SingleLevelDir/5.singleLevelDir.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/Memory%20Management/SingleLevelDir/5.singleLevelDir.c)
+[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/Memory%20Management/SingleLevelDir/README.md#output)
 
 The directory structure is the organization of files into a hierarchy of folders.
 
@@ -14,5 +14,5 @@ Advantage of single level directory system is that it is easy to find a file in 
 
 ## Output
 
-![output_img](/out_img/p_05_out-1.jpg)
-![output_img](/out_img/p_05_out-2.jpg)
+![output_img](/.github/out_img/p_05_out-1.jpg)
+![output_img](/.github/out_img/p_05_out-2.jpg)

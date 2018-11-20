@@ -1,0 +1,1 @@
+- [Banker's Algorithm](https://github.com/KTU-CSE/System-Software-lab/tree/master/cycle-2/p_07/README.md)
