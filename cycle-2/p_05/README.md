@@ -2,6 +2,7 @@
 
 [![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-2/p_05/pg_05.c)
 [![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/cycle-2/p_05/pg_05.c)
+[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-2/p_05/README.md#output)
 
 The directory structure is the organization of files into a hierarchy of folders.
 
@@ -11,7 +12,7 @@ It has a simple architecture and there are no sub directories.
 
 Advantage of single level directory system is that it is easy to find a file in the directory.
 
-Output
+## Output
 
 ![output_img](/out_img/p_05_out-1.jpg)
 ![output_img](/out_img/p_05_out-2.jpg)

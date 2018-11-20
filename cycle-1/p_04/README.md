@@ -2,6 +2,7 @@
 
 [![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-1/p_04/pg_04.c)
 [![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/cycle-1/p_04/pg_04.c)
+[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-1/p_04/README.md#output)
 
 Round Robin is a CPU scheduling algorithm where each process is assigned a fixed time slot in a cyclic way.
 
@@ -47,6 +48,6 @@ The tricky part is to compute waiting times. Once waiting times are computed, tu
 
 Once we have waiting times, we can compute turn around time tat[i] of a process as sum of waiting and burst times, i.e., wt[i] + bt[i]
 
-Output:
+## Output
 
 ![output_image](/out_img/p_04_out.jpg)

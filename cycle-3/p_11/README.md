@@ -2,6 +2,7 @@
 
 [![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-3/p_11/pg_11.c)
 [![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/raw/master/cycle-3/p_11/pg_11.c)
+[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-3/p_11/README.md#output)
 
 The first-in, first-out (FIFO) page replacement algorithm is a low-overhead algorithm that requires little book keeping on the part of the operating system.
 
@@ -38,6 +39,8 @@ This algorithm experiences Bélády's anomaly.
 In simple words, on a page fault, the frame that has been in memory the longest is replaced.
 
 FIFO is a conservative algorithm, so it is <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/13927983edad1979dd266a93f0034ad46d419636" width="70"> -competitive.
+
+## Output
 
 ![output_img](/out_img/p_11_out.png)
 

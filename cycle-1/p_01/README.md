@@ -2,6 +2,7 @@
 
 [![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-1/p_01/pg_01.c)
 [![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/cycle-1/p_01/pg_01.c)
+[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-1/p_01/README.md#output)
 
 Given n processes with their burst times, the task is to find average waiting time and average turn around time using FCFS scheduling algorithm.
 
@@ -40,7 +41,7 @@ Implementation:
 7-  Similarly, find average turnaround time = 
                  total_turn_around_time / no_of_processes.
 
-Output:
+## Output
 
 ![output_image](/out_img/p_01_out.jpg)
 

@@ -2,6 +2,7 @@
 
 [![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-3/p_12/pg_12.c)
 [![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/raw/master/cycle-3/p_12/pg_12.c)
+[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-3/p_12/README.md#output)
 
 In Least Recently Used (LRU) algorithm is a Greedy algorithm where the page to be replaced is least recently used.
 
@@ -41,6 +42,8 @@ set of pages in memory.
 <hr />
 
 LRU is a marking algorithm, so it is <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/13927983edad1979dd266a93f0034ad46d419636" width="70">-competitive.
+
+## Output
 
 ![output_img](/out_img/p_12_out.png)
 
