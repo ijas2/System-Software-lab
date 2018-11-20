@@ -11,32 +11,35 @@ University: APJ Abdul Kalam Technological University
 
 ## Content
 
-- **[Cycle 1](cycle-1/README.md)**
+- **[CPU Scheduling](CPU%20Scheduling/README.md)**
 
-  ### CPU Scheduling Algorithms
+  - [FCFS Scheduling](CPU%20Scheduling/FCFS/README.md)
+  - [SJF Scheduling](CPU%20Scheduling/SJF/README.md)
+  - [Priority Scheduling](CPU%20Scheduling/Priority/README.md)
+  - [Round Robin scheduling](CPU%20Scheduling/RoundRobin/README.md)
 
-  - [FCFS Scheduling](cycle-1/p_01/README.md)
-  - [SJF Scheduling](cycle-1/p_02/README.md)
-  - [Priority Scheduling](cycle-1/p_03/README.md)
-  - [Round Robin scheduling](cycle-1/p_04/README.md)
+- **[Memory Management](Memory%20Management/README.md)**
 
-- **[Cycle 2](cycle-2/README.md)**
+  - [Single-Level Directory-File Organisation Technique](Memory%20Management/SingleLevelDir/README.md)
+  - [Two-Level Directory-File Organisation Technique](Memory%20Management/TwoLevelDir/README.md)
 
-  - [Single-Level Directory-File Organisation Technique](cycle-2/p_05/README.md)
-  - [Two-Level Directory-File Organisation Technique](cycle-2/p_06/README.md)
-  - [Banker's Algorithm](cycle-2/p_07/README.md)
+- **[Deadlocks](Deadlocks/README.md)**
 
-- **[Cycle 3](cycle-3/README.md)**
-  ### Disk Scheduling Algorithms
-  - [FCFS Algorithm](cycle-3/p_08/README.md)
-  - [SCAN Algorithm](cycle-3/p_09/README.md)
-  - [C-SCAN Algorithm](cycle-3/p_10/README.md)
-  ### Page Replacement Algorithms
-  - [FIFO Algorithm](cycle-3/p_11/README.md)
-  - [LRU Algorithm](cycle-3/p_12/README.md)
-  - [LFU Algorithm](#)                      // toBeDone
+  - [Banker's Algorithm](Deadlocks/BankersAlgorithm/README.md)
 
-- **[Cycle 4](cycle-4/README.md)**
+- **[Disk Management](Disk%20Management/README.md)**
+
+  - [FCFS Disk Scheduling](Disk%20Management/FCFS/README.md)
+  - [SCAN Disk Scheduling](Disk%20Management/SCAN/README.md)
+  - [C-SCAN Disk Scheduling](Disk%20Management/CSCAN/README.md)
+
+- **[Virtual Memory](Virtual%20Memory/README.md)**
+
+  - [FIFO Page Replacement Algorithm](Virtual%20Memory/FIFO/README.md)
+  - [LRU Page Replacement Algorithm](Virtual%20Memory/LRU/README.md)
+  - [LFU Page Replacement Algorithm](#)                      // toBeDone
+
+- **[Process Synchronization](Process%20Synchronization/README.md)**
   - [Producer Consumer Problem](#)          // toBeDone
   - [Dining Philosophers Problem](#)        // toBeDone
   - [Pass 1 of a Two Pass Assembler](#)     // toBeDone
@@ -60,40 +63,47 @@ University: APJ Abdul Kalam Technological University
 ## What each directory in this repo contains
 
 ```
-1) CPU Scheduling Algorithms
+1) CPU Scheduling
 	└──── FCFS Scheduling
 	└──── SJF Scheduling
 	└──── Priority Scheduling
 	└──── Round Robin scheduling
     
-2) Category 2
+2) Memory Management
 	└──── Single-Level Directory-File Organisation Technique
 	└──── Two-Level Directory-File Organisation Technique
+
+3) Deadlocks
 	└──── Banker's Algorithm
 
-3) Disk Scheduling Algorithms
-	└──── FCFS Algorithm
-	└──── SCAN Algorithm
-	└──── C-SCAN Algorithm
+4) Disk Management
+	└──── FCFS Disk Scheduling
+	└──── SCAN Disk Scheduling
+	└──── C-SCAN Disk Scheduling
 
-4) Page Replacement Algorithms
-	└──── FIFO Algorithm
-	└──── LRU Algorithm
-	└──── LFU Algorithm
+5) Virtual Memory
+	└──── FIFO Page Replacement Algorithm
+	└──── LRU Page Replacement Algorithm
+	└──── LFU Page Replacement Algorithm
 
-5) Category 5
+6) Process Synchronization
 	└──── Producer Consumer Problem
 	└──── Dining Philosophers Problem
-	└──── Pass 1 of a Two Pass Assembler
-	└──── Pass 2 of a Two Pass Assembler
+	└──── Two Pass Assembler
+        |      └──── Pass 1 of a Two Pass Assembler
+        |      └──── Pass 2 of a Two Pass Assembler
 	└──── Single Pass Assembler  
 	└──── Absolute Loader
 	└──── Symbol Table With Hashing
 ```
 
-## Compiling and Executing
+## Getting Started
 
-Switch to the folder
+Clone this repo
+```
+$ git clone https://github.com/KTU-CSE/System-Software-lab.git
+```
+Switch to the program folder
 ```
 $ cd the/dir/where/program/file/is
 ```
