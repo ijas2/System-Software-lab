@@ -1,8 +1,8 @@
 ## Program for FCFS Scheduling
 
-[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-1/p_01/pg_01.c)
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/cycle-1/p_01/pg_01.c)
-[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-1/p_01/README.md#output)
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/CPU%20Scheduling/FCFS/1.fcfs.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/CPU%20Scheduling/FCFS/1.fcfs.c)
+[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/CPU%20Scheduling/FCFS/README.md#output)
 
 Given n processes with their burst times, the task is to find average waiting time and average turn around time using FCFS scheduling algorithm.
 
@@ -43,6 +43,6 @@ Implementation:
 
 ## Output
 
-![output_image](/out_img/p_01_out.jpg)
+![output_image](/.github/out_img/p_01_out.jpg)
 
 [Reference](http://web.cse.ohio-state.edu/~agrawal/660/Slides/jan18.pdf)
