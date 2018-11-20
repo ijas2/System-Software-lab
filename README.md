@@ -33,5 +33,5 @@ Includes
   - [C-SCAN Algorithm](cycle-3/p_10/README.md)
   ### Page Replacement Algorithms
   - [FIFO Algorithm](cycle-3/p_11/README.md)
-  - [LRU Algorithm](#) //pending
+  - [LRU Algorithm](cycle-3/p_12/README.md)
   - [LFU Algorithm](#) //pending

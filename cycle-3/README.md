@@ -7,7 +7,7 @@
 ### Page Replacement Algorithms
 
 - [FIFO Algorithm](https://github.com/KTU-CSE/System-Software-lab/tree/master/cycle-3/p_11/README.md)
-- [LRU Algorithm](#)
+- [LRU Algorithm](https://github.com/KTU-CSE/System-Software-lab/tree/master/cycle-3/p_12/README.md)
 - [LFU Algorithm](#)
 
 <hr />
@@ -39,9 +39,7 @@ There are many Disk Scheduling Algorithms but before discussing them let’s hav
 
 ### Page Replacement
 
-In a computer operating system that uses paging for virtual memory management, page replacement algorithms decide which memory pages to page out, sometimes called swap out, or write to disk, when a page of memory needs to be allocated. 
-
-Page replacement happens when a requested page is not in memory (page fault) and a free page cannot be used to satisfy the allocation, either because there are none, or because the number of free pages is lower than some threshold. 
+In operating systems that use paging for memory management, page replacement algorithm are needed to decide which page needed to be replaced when new page comes in. Whenever a new page is referred and not present in memory, page fault occurs and Operating System replaces one of the existing pages with newly needed page.
 
 When the page that was selected for replacement and paged out is referenced again it has to be paged in (read in from disk), and this involves waiting for I/O completion. 
 

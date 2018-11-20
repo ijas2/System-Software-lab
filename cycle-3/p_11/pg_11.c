@@ -10,18 +10,18 @@ void fifo(int [], int [], int, int);
 
 int main() {
     int i, pCount, fCount, pages[30], frames[20];
-    printf("Number of Pages : ");
-    scanf("%d", &pCount);
-    printf("Enter the reference string\n");
-    for (i = 0; i < pCount; i++) {
-        scanf("%d", &pages[i]);
-    }    
     printf("Number of Frames : ");
     scanf("%d", &fCount);
     // create frames array will null value
     for (i = 0; i < fCount; i++) {
         frames[i] = -1;
     }
+    printf("Number of Pages : ");
+    scanf("%d", &pCount);
+    printf("Enter the reference string\n");
+    for (i = 0; i < pCount; i++) {
+        scanf("%d", &pages[i]);
+    }    
     // call the function
     fifo(pages, frames, pCount, fCount);
 

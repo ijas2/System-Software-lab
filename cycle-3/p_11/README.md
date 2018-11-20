@@ -39,7 +39,7 @@ In simple words, on a page fault, the frame that has been in memory the longest 
 
 FIFO is a conservative algorithm, so it is <img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/13927983edad1979dd266a93f0034ad46d419636" width="70"> -competitive.
 
-![output_img](/out_img/p_11_out.jpg)
+![output_img](/out_img/p_11_out.png)
 
 Reference
 
