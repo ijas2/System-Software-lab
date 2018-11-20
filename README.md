@@ -35,3 +35,12 @@ Includes
   - [FIFO Algorithm](cycle-3/p_11/README.md)
   - [LRU Algorithm](cycle-3/p_12/README.md)
   - [LFU Algorithm](#) //pending
+
+- **[Cycle 4](cycle-4/README.md)**
+  - [Producer Consumer Problem](#) //pending
+  - [Dining Philosophers Problem](#) //pending
+  - [Pass 1 of a Two Pass Assembler](#) //pending
+  - [Pass 2 of a Two Pass Assembler](#) //pending 
+  - [Single Pass Assembler](#) //pending
+  - [Absolute Loader](#) //pending
+  - [Symbol Table With Hashing](#) //pending
