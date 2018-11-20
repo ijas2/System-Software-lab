@@ -67,7 +67,7 @@ Safe sequence is the sequence in which the processes can be safely executed.
 
 ## Output
 
-![output_img](/out_img/p_07_out.png)
+![output_img](/.github/out_img/p_07_out.png)
 
 References:
  

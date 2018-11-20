@@ -29,7 +29,7 @@ When a page needs to be replaced, the page at the front of the queue (the oldest
 
 - Return page faults.
 
-![](/out_img/img_11.png)
+![](/.github/out_img/img_11.png)
 
 <hr />
 
@@ -42,7 +42,7 @@ FIFO is a conservative algorithm, so it is <img src="https://wikimedia.org/api/r
 
 ## Output
 
-![output_img](/out_img/p_11_out.png)
+![output_img](/.github/out_img/p_11_out.png)
 
 Reference
 

@@ -1,8 +1,8 @@
 ## Program for SCAN Disk Scheduling
 
-[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-3/p_09/pg_09.c)
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/cycle-3/p_09/pg_09.c)
-[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-3/p_09/README.md#output)
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/Disk%20Management/SCAN/9.scan.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/Disk%20Management/SCAN/9.scan.c)
+[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/Disk%20Management/SCAN/README.md#output)
 
 The SCAN algorithm is a disk scheduling algorithm that helps in determining the motion of a disk’s arm and head in executing the read and write requests.
 
@@ -41,7 +41,7 @@ Disadvantages:
 
 ## Output
 
-![output_img](/out_img/p_09_out.png)
+![output_img](/.github/out_img/p_09_out.png)
 
 Reference
 

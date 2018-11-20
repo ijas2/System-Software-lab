@@ -29,4 +29,4 @@ Terms
 
 ## Output
 
-![output_img](/out_img/p_02_out.jpg)
+![output_img](/.github/out_img/p_02_out.jpg)

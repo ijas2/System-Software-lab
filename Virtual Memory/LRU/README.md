@@ -45,7 +45,7 @@ LRU is a marking algorithm, so it is <img src="https://wikimedia.org/api/rest_v1
 
 ## Output
 
-![output_img](/out_img/p_12_out.png)
+![output_img](/.github/out_img/p_12_out.png)
 
 Reference
 

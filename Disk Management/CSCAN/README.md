@@ -1,8 +1,8 @@
 ## Program for C-SCAN Disk Scheduling
 
-[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-3/p_10/pg_10.c)
-[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/cycle-3/p_10/pg_10.c)
-[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/cycle-3/p_10/README.md#output)
+[![solution](https://img.shields.io/badge/View-Solution-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/Disk%20Management/CSCAN/10.csan.c)
+[![raw](https://img.shields.io/badge/-raw-green.svg?logo=appveyor&longCache=true&style=for-the-badge )](https://github.com/KTU-CSE/System-Software-lab/raw/master/Disk%20Management/CSCAN/10.csan.c)
+[![output](https://img.shields.io/badge/-output-ff69b4.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/blob/master/Disk%20Management/CSCAN/README.md#output)
 
 Definition of C-SCAN: C-SCAN moves the head from one end of the Disk to the other end, servicing requests along the way. The head on reaching the other end, however immediately returns to the beginning of the Disk without servicing any requests on the return.
 
@@ -32,7 +32,7 @@ Note: Even though six seeks were performed using the C-SCAN algorithm, only five
 
 ## Output
 
-![output_img](/out_img/p_10_out.jpg)
+![output_img](/.github/out_img/p_10_out.jpg)
 
 Reference
 
