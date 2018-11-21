@@ -1,7 +1,7 @@
 # SYSTEM-SOFTWARE-LAB
 
-[![download](https://img.shields.io/badge/Download-zip-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/zipball/master)
-[![website](https://img.shields.io/badge/Live-website-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://abhijithvijayan.github.io/System-Software-lab/)
+[![download](https://img.shields.io/badge/Direct_Download-zip-blue.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://github.com/KTU-CSE/System-Software-lab/releases/latest)
+[![website](https://img.shields.io/badge/Live-Site-green.svg?logo=appveyor&longCache=true&style=for-the-badge)](https://abhijithvijayan.github.io/System-Software-lab/)
 
 B.Tech CSE S5 System Software Lab
 
@@ -37,7 +37,7 @@ University: APJ Abdul Kalam Technological University
 
   - [FIFO Page Replacement Algorithm](Virtual%20Memory/FIFO/README.md)
   - [LRU Page Replacement Algorithm](Virtual%20Memory/LRU/README.md)
-  - [LFU Page Replacement Algorithm](#)                      // toBeDone
+  - [LFU Page Replacement Algorithm](Virtual%20Memory/LFU/README.md)                      // toBeDone
 
 - **[Process Synchronization](Process%20Synchronization/README.md)**
   - [Producer Consumer Problem](#)          // toBeDone
