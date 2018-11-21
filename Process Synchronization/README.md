@@ -1,7 +1,0 @@
-- [Producer Consumer Problem](https://github.com/KTU-CSE/System-Software-lab/tree/master/cycle-4/p_14/README.md) //pending
-- [Dining Philosophers Problem](#) //pending
-- [Pass 1 of a Two Pass Assembler](#) //pending
-- [Pass 2 of a Two Pass Assembler](#) //pending 
-- [Single Pass Assembler](#) //pending
-- [Absolute Loader](#) //pending
-- [Symbol Table With Hashing](#) //pending

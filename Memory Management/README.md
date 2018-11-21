@@ -1,2 +1,0 @@
-- [Single-Level Directory-File Organisation Technique](https://github.com/KTU-CSE/System-Software-lab/tree/master/Memory%20Management/SingleLevelDir/README.md)
-- [Two-Level Directory-File Organisation Technique](https://github.com/KTU-CSE/System-Software-lab/tree/master/Memory%20Management/TwoLevelDir/README.md)
